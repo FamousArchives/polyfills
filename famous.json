@@ -1,0 +1,16 @@
+{
+  "name": "famous/Shims",
+  "namespace": "famous",
+  "type": "famous",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "scripts": [
+    "index.js",
+    "classList.js",
+    "functionPrototypeBind.js",
+    "requestAnimationFrame.js"
+  ],
+  "repo": "https://raw.github.com/Famous/Shims"
+}
