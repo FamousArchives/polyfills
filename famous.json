@@ -1,5 +1,5 @@
 {
-  "name": "famous/Shims",
+  "name": "famous/polyfills",
   "namespace": "famous",
   "type": "famous",
   "description": "",
@@ -12,5 +12,5 @@
     "functionPrototypeBind.js",
     "requestAnimationFrame.js"
   ],
-  "repo": "https://raw.github.com/Famous/Shims"
+  "repo": "https://github.com/Famous/famous-polyfills"
 }
