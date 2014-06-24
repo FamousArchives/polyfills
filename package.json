@@ -1,0 +1,23 @@
+{
+  "name": "famous-polyfills",
+  "version": "0.2.1",
+  "description": "polyfills to be used with the famous library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Famous/polyfills.git"
+  },
+  "keywords": [
+    "polyfills",
+    "famo.us"
+  ],
+  "author": "Famous",
+  "license": "GPLV2",
+  "bugs": {
+    "url": "https://github.com/Famous/polyfills/issues"
+  },
+  "homepage": "https://github.com/Famous/polyfills"
+}
