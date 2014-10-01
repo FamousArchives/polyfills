@@ -1,7 +1,7 @@
 {
   "name": "famous-polyfills",
   "main": "index.js",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "homepage": "https://github.com/Famous/polyfills",
   "authors": [
     "Myles Borins <myles.borins@gmail.com>"
